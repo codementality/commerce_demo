@@ -1,6 +1,6 @@
 {
     "name": "drupal/commerce_demo",
-    "type": "drupal-module",
+    "type": "drupal-custom-module",
     "description": "Demo module for the Commerce module.",
     "homepage": "http://drupal.org/project/commerce_demo",
     "license": "GPL-2.0+",

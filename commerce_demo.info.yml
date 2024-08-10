@@ -1,8 +1,8 @@
-name: Commerce Demo
+name: Commerce Demo (forked)
 type: module
 description: 'Provides a demo store for Commerce.'
-package: Commerce (contrib)
-core_version_requirement: ^8.8 || ^9
+package: Commerce (custom)
+core_version_requirement: ^9 || ^10
 dependencies:
   - color_field:color_field
   - commerce:commerce
